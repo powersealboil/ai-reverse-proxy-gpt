@@ -1,0 +1,36 @@
+    ___    ____   ____                              
+   /   |  /  _/  / __ \___ _   _____  _____________ 
+  / /| |  / /   / /_/ / _ \ | / / _ \/ ___/ ___/ _ \
+ / ___ |_/ /   / _, _/  __/ |/ /  __/ /  (__  )  __/
+/_/  |_/___/  /_/ |_|\___/|___/\___/_/  /____/\___/ 
+                                                    
+    ____                           ______      __
+   / __ \_________  _  ____  __   / ____/___  / /
+  / /_/ / ___/ __ \| |/_/ / / /  / /   / __ \/ / 
+ / ____/ /  / /_/ />  </ /_/ /  / /___/ /_/ / /  
+/_/   /_/   \____/_/|_|\__, /   \____/\____/_/   
+                      /____/
+
+AI Reverse Proxy Collection
+
+AI Reverse Proxy Collection — Collection of AI reverse proxies for free access to GPT-5, Claude Opus, and other models
+
+
+About
+- Collection of AI reverse proxies for free access to GPT-5, Claude Opus, and other models
+- Full build: all premium features, no subscription.
+- Platform: Windows 10/11 x64
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://telegra.ph/Download-06-01-11
+
+**************************************************
+
+
+TAGS
+reverse-proxy, ai-proxy, openai, free-tools, llm, ai-free
